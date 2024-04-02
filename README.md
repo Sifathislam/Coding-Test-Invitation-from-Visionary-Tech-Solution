@@ -17,12 +17,17 @@ Python Movie Rating System is a web application developed by Mohaimenul Islam us
    ```
 
 3. Install basic dependencies:
-   Please if need any other dependecies use requirement.txt
+   Please if need any other dependecies use requirement.txt(suggetion to use it)
    ```
    pip install django
    pip install djangorestframework
    pip install markdown      
    pip install django-filter
+   pip install virtualenv
+   pip install django-cors-headers
+   pip install django-environ
+   pip install django-email
+   pip intall dj-database-url
    ```
 
 5. Apply migrations:
