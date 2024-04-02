@@ -2,7 +2,7 @@
 
 ## Description
 
-Python Movie Rating System is a web application developed by Mohaimenul Islam using Django Rest Framework. It allows users to register, login, add movies, rate movies, and view details about movies along with their average ratings. The application implements an authentication system with email verification, ensuring that only authenticated users can create movie models and rate movies. Additionally, the application includes features such as pagination and search functionality for the movie model.
+Python Movie Rating System is a web application developed by Mohaimenul Islam using Django Rest Framework And As database i use SQLite3. It allows users to register, login, add movies, rate movies, and view details about movies along with their average ratings. The application implements an authentication system with email verification, ensuring that only authenticated users can create movie models and rate movies. Additionally, the application includes features such as pagination and search functionality for the movie model.
 
 ## Installation
 
